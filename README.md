@@ -1,7 +1,5 @@
 - 👋 Hi, I’m YangJinxi.
-- 👀 I’m interested in C/C++ and Embedded system development.
-- 🌱 My major: Microelectronics Science and Engineering
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me jinxi2448@163.com
 
 <!---
